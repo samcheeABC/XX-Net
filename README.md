@@ -29,4 +29,4 @@ Links
 Help
 -----
 * https://github.com/XX-net/XX-Net/wiki/How-to-contribute
-思考：帮助可否做成流程图的形式，更直观；
+思考：帮助可否做成流程图的形式，更直观；2
